@@ -1,0 +1,19 @@
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+  color:aliceblue;
+}
+a {
+  text-decoration: nome;
+  color:rgb(233, 229, 236);
+  transition:1s;
+}
+
+a:hover {
+  color:rgba(0, 0, 0, 0.671);
+}
